@@ -8,7 +8,8 @@ export default () =>
     <img src="https://source.unsplash.com/random/400x200" alt="" />
     <br />
     <div>
-      <Link to="/asp/">ASP</Link>
-	  <Link to="/soman/">Soman</Link>
+      <Link to="/asp/">ASP</Link><br />
+	  <Link to="/soman/">Soman</Link><br />
+    <Link to="/for/">For Loop</Link><br />
     </div>
   </div>
